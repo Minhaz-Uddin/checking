@@ -55,6 +55,7 @@ nav ul li:hover{
 	font-size: 30px;
 }
 .right-content{
+	overflow:hidden;
 	width: 320px;
 	float: left;
 	height: 600px;
